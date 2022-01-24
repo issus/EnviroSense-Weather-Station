@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=EnviroSense\EnviroSense.PrjPcb
+[Project2]
+ProjectPath=ATWINC15x0\ATWINC15x0-MR210UB.PrjPcb
+[Project3]
+ProjectPath=EnviroSense Multiboard\EnviroSense Multiboard.PrjMbd

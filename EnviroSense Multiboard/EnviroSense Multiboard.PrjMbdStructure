@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=EnviroSense Multi.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\ATWINC15x0\ATWINC15x0-MR210UB.PrjPcb
+Record=SubProject|SourceDocument=EnviroSense Multi.MbsDoc|ProjectPath=..\ATWINC15x0\ATWINC15x0-MR210UB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=EnviroSense Multi.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\EnviroSense\EnviroSense.PrjPcb
+Record=SubProject|SourceDocument=EnviroSense Multi.MbsDoc|ProjectPath=..\EnviroSense\EnviroSense.PrjPcb
